@@ -45,3 +45,13 @@ Description: development files for SDL 2.0 image loading library
  .
  This package contains files needed if you wish to use the SDL image
  library in your own programs.
+
+Package: libsdl2-image-snapshot
+Architecture: all
+Section: utils
+Depends: ${misc:Depends}, libsdl2-image (= ${source:Version})
+Suggests: rzr
+Priority: extra
+Description: unreleased snapshot version
+ TODO: Remove on issue and upgrade libsdl2-image
+
