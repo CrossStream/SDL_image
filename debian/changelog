@@ -1,3 +1,11 @@
+libsdl2-image (2.0.5+54+gb7c6f50-60) unstable; urgency=medium
+
+  * WIP:
+    https://launchpad.net/~rzr/+archive/ubuntu/snapshot/+packages#${pack
+    age}
+
+ -- Philippe Coval <rzr@users.sf.net>  Tue, 30 Jun 2020 17:21:06 +0200
+
 libsdl2-image (0.2.0.5+54+gb7c6f50-58) unstable; urgency=medium
 
   * debian: WIP: Release 0.2.0.5+54+gb7c6f50-58 (snapshot)
