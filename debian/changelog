@@ -1,8 +1,22 @@
-libsdl2-image (2.0.6) UNRELEASED; urgency=low
+libsdl2-image (2.0.5+54+gb7c6f50-56) unstable; urgency=medium
 
+  * WIP:
+    https://launchpad.net/~rzr/+archive/ubuntu/snapshot/+packages#${pack
+    age}
+
+ -- Philippe Coval <rzr@users.sf.net>  Tue, 30 Jun 2020 17:19:20 +0200
+
+libsdl2-image (0.0.0-0) unstable; urgency=low
+
+  [ Sam Lantinga ]
   * Updated to version 2.0.6
 
- -- Sam Lantinga <slouken@libsdl.org>  Thu, 3 Oct 2019 18:38:16 -0800
+  [ Philippe Coval ]
+  * wip:
+    https://launchpad.net/~rzr/+archive/ubuntu/snapshot/+packages#${pack
+    age}
+
+ -- Philippe Coval <rzr@users.sf.net>  Tue, 30 Jun 2020 17:19:20 +0200
 
 libsdl2-image (2.0.5) UNRELEASED; urgency=low
 
