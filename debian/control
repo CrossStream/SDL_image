@@ -13,7 +13,7 @@ Build-Depends: debhelper (>= 8.9.0~),
                libsdl2-dev,
                libjpeg-dev,
                libpng-dev,
-               libtiff4-dev,
+	       libtiff-dev | libtiff4-dev,
                zlib1g-dev
 Homepage: http://www.libsdl.org/projects/SDL_image/
 
@@ -45,13 +45,3 @@ Description: development files for SDL 2.0 image loading library
  .
  This package contains files needed if you wish to use the SDL image
  library in your own programs.
-
-Package: libsdl2-image-snapshot
-Architecture: all
-Section: utils
-Depends: ${misc:Depends}, libsdl2-image (= ${source:Version})
-Suggests: rzr
-Priority: extra
-Description: unreleased snapshot version
- TODO: Remove on issue and upgrade libsdl2-image
-
